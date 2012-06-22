@@ -1,0 +1,3 @@
+[submodule "Nagios"]
+	path = Nagios
+	url = https://github.com/geopcgeo/Nagios.git
